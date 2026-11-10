@@ -1,5 +1,6 @@
 # HR Analytics & Employee Attrition Analysis
 
+
 # Project Objective
 
 The main objective of this project is to analyze employee data and present important HR insights through an interactive Power BI dashboard. It helps HR departments and management understand workforce performance, employee satisfaction and attrition patterns.
@@ -20,7 +21,6 @@ The HR Analytics & Employee Attrition Analysis project uses an HR dataset contai
 | Rating Level | Stores different performance rating categories and levels. |
 | Satisfied Level | Stores employee satisfaction categories and satisfaction levels. |
 
-Since your project topic is Employee Attrition Analysis using Power BI, here is the corrected Project Overview for your GitHub README.
 
 ## Project Overview
 
@@ -38,7 +38,7 @@ Since your project topic is Employee Attrition Analysis using Power BI, here is 
 
 ## Page 1 – HR Analytics Overview
 
-# Cards (KPI)
+#Cards (KPI)
 
 1. Total Employees
 2. Active Employees
@@ -65,6 +65,7 @@ Since your project topic is Employee Attrition Analysis using Power BI, here is 
 2. Gender
 3. Job Role
 4. Education Level
+
 **Purpose:** Understand the overall workforce by analyzing total employees, active employees, attrition rate, department distribution, gender distribution, and job roles.
 
 ## Page 2 – Employee Performance & Satisfaction
@@ -86,6 +87,7 @@ Since your project topic is Employee Attrition Analysis using Power BI, here is 
 1. Department
 2. Job Role
 3. Education Level
+
 **Purpose**: Evaluate employee performance and workplace satisfaction by analyzing performance ratings, job satisfaction, environment satisfaction, and department-wise performance.
 
 ## Page 3 – Employee Attrition Analysis
@@ -111,4 +113,5 @@ Since your project topic is Employee Attrition Analysis using Power BI, here is 
 2. Gender
 3. Job Role
 4. Education Level
+
 **Purpose:** Understand employee turnover by analyzing employees who left, attrition rate, age groups, gender, departments, job roles, and education levels.
